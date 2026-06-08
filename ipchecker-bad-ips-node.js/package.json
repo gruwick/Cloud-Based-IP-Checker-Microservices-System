@@ -1,0 +1,12 @@
+{
+  "name": "ipchecker-bad-ips",
+  "version": "1.0.0",
+  "description": "Bad IP checker service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
