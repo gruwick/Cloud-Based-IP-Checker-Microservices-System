@@ -1,0 +1,8 @@
+{
+  "totalValid": "/proxy/totalValid",
+  "classifyip": "/proxy/classifyip",
+  "countryInfo": "/proxy/countryInfo",
+  "badIp": "/proxy/badIp",
+  "saverestoreSave": "/proxy/saverestore/save",
+  "saverestoreLoad": "/proxy/saverestore/load"
+}
