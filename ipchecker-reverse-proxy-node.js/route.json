@@ -1,0 +1,20 @@
+{
+  "totalValid": {
+    "target": "https://40407039.qpc.qubcloud.uk/totalvalid"
+  },
+  "classifyip": {
+    "target": "https://40407039.qpc.qubcloud.uk/classifyip"
+  },
+  "countryInfo": {
+    "target": "https://40407039.qpc.qubcloud.uk/countryinfo"
+  },
+  "badIp": {
+    "target": "https://40407039.qpc.qubcloud.uk/badip"
+  },
+  "saverestoreSave": {
+    "target": "https://40407039.qpc.qubcloud.uk/saverestore/save"
+  },
+  "saverestoreLoad": {
+    "target": "https://40407039.qpc.qubcloud.uk/saverestore/load"
+  }
+}
